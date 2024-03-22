@@ -1,0 +1,45 @@
+h1 {
+    font-size: 30px;
+    margin-right: 40px;
+}
+
+.NavItems{
+    margin-right: 20px;
+}
+
+
+header {
+    height: 100vh;
+    background-image: url("./assets/image1.jpg");
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 15px;
+    justify-content: flex-start;
+}
+
+button {
+    width: 100%;
+    height:100%;
+    color: black;
+    background-color: salmon;
+    border: 5px color blue;
+}
+
+
+/*
+.feature {
+    height: 100vh;
+    background-image: url("./assets/image1.jpg");
+    background-size: cover;
+    background-position: center center;
+  }
+  */
+
+  .title {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+  }
